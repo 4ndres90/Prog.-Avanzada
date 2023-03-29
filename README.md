@@ -2,7 +2,7 @@
 
 ## Ejercicios
 
-<ins>concat.hs: Emula el comportamiento de ++ (Práctica 2, ejercicio 4)
+<ins>concat.hs:</ins> Emula el comportamiento de ++ (Práctica 2, ejercicio 4)
 
 <ins>double.hs:</ins> Toma dos números y suma el doble de sus valores (Ejercicio propuesto en Aprende Haskell...)
 
@@ -14,4 +14,4 @@
 
 <ins>multi.hs:</ins> Contiene funciones que emulan el comportamiento de head, tail, last e init (Práctica 2, ejercicio 2)
 
-<ins>take.hs</ins> Emula el comportamiento de take (Práctica 2, ejercicio 4)
+<ins>take.hs:</ins> Emula el comportamiento de take (Práctica 2, ejercicio 4)
