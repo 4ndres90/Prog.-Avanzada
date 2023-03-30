@@ -15,3 +15,7 @@
 <ins>multi.hs:</ins> Contiene funciones que emulan el comportamiento de head, tail, last e init (Práctica 2, ejercicio 2)
 
 <ins>take.hs:</ins> Emula el comportamiento de take (Práctica 2, ejercicio 4)
+
+<ins>absolut.hs:</ins> Recibe un número entero y devuelve su valor absoluto (Práctica 2, ejercicio 5)
+
+<ins>xor.hs:</ins> Recibe dos proposiciones y evalua la disyunción excluyente (Práctica 2, ejercicio 7)
